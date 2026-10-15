@@ -16,7 +16,7 @@
 
 ---
 
-## `whoami`
+## `Whoami`
 
 ```text
 > Initializing Ranjith...
@@ -27,7 +27,7 @@ Name        : Ranjith
 Role        : Computer Science Student
 Focus       : Programming + Linux + DevOps
 Mindset     : Learn → Build → Break → Fix → Repeat
-Mission     : Become a better developer every day 🚀
+Mission     : Become a better developer every day 
 ```
 
 ---
